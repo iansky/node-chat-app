@@ -9,12 +9,13 @@
   },
   "engines": {
     "node": "6.10.3",
-    "npm": "3.10.10" 
-   },
+    "npm": "3.10.10"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
-    "nodemon":"*"
+    "nodemon": "*",
+    "socket.io": "^1.4.8"
   }
 }
